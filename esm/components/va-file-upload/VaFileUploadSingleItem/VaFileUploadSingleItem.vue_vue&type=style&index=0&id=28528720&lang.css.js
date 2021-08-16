@@ -1,0 +1,2 @@
+import e from"../../../node_modules/style-inject/dist/style-inject.es.js";var i=".va-file-upload-single-item{display:flex;align-items:center;max-width:100%}.va-file-upload-single-item__name{margin-right:.25rem;max-width:80%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.va-file-upload-single-item__button{margin-top:0;margin-bottom:0;font-weight:700}";e(i);export default i;
+//# sourceMappingURL=VaFileUploadSingleItem.vue_vue&type=style&index=0&id=28528720&lang.css.js.map

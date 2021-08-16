@@ -1,0 +1,2 @@
+import{mergeProps as o,withScopeId as r}from"vue";import{ssrRenderAttrs as a,ssrRenderStyle as e}from"@vue/server-renderer";const c=r("data-v-3a5f09c3")(((r,c,d,t)=>{c(`<div${a(o({class:["color-indicator",r.computedClass],style:r.computedStyle},t))} data-v-3a5f09c3><div class="color-indicator__core" style="${e({"background-color":r.colorComputed,"border-radius":r.square?0:"50%"})}" data-v-3a5f09c3></div></div>`)}));export{c as ssrRender};
+//# sourceMappingURL=VaColorIndicator.vue_vue&type=template&id=3a5f09c3&lang.js.map

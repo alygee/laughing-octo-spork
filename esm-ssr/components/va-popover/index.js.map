@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-popover/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaPopover from './VaPopover.vue'\n\nexport default withConfigTransport(VaPopover)\n"],"names":["withConfigTransport","VaPopover"],"mappings":"wJAGA,MAAeA,EAAoBC"}

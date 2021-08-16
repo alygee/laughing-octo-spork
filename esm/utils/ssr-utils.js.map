@@ -1,0 +1,1 @@
+{"version":3,"file":"ssr-utils.js","sources":["../../../src/utils/ssr-utils.ts"],"sourcesContent":["export const isServer = () => typeof window === 'undefined'\nexport const isClient = () => !isServer()\n"],"names":["isServer","window"],"mappings":"MAAaA,EAAW,IAAwB,oBAAXC"}

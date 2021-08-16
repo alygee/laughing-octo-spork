@@ -1,0 +1,2 @@
+import{resolveComponent as o,openBlock as l,createBlock as t,renderSlot as c,createVNode as e,createCommentVNode as s}from"vue";function n(n,r){const i=o("va-button");return n.visible?(l(),t("div",{key:0,class:"va-backtop",style:n.computedStyle,onClick:r[1]||(r[1]=o=>n.scrollToTop())},[c(n.$slots,"default",{},(()=>[e(i,{icon:"expand_less",color:n.color},null,8,["color"])]))],4)):s("v-if",!0)}export{n as render};
+//# sourceMappingURL=VaBacktop.vue_vue&type=template&id=17846d70&lang.js.map

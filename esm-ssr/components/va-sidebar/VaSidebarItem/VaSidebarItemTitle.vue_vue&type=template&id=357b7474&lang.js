@@ -1,0 +1,2 @@
+import{mergeProps as e,withScopeId as t}from"vue";import{ssrRenderAttrs as a,ssrRenderSlot as r}from"@vue/server-renderer";const v=t("data-v-357b7474")(((t,v,d,i)=>{v(`<div${a(e({class:"va-sidebar__title va-sidebar-item-title"},i))} data-v-357b7474>`),r(t.$slots,"default",{},null,v,d,"data-v-357b7474-s"),v("</div>")}));export{v as ssrRender};
+//# sourceMappingURL=VaSidebarItemTitle.vue_vue&type=template&id=357b7474&lang.js.map

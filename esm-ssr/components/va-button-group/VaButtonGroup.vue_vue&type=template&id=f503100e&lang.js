@@ -1,0 +1,2 @@
+import{resolveComponent as t,mergeProps as o,withCtx as e,renderSlot as n}from"vue";import{ssrRenderAttrs as r,ssrRenderComponent as u,ssrRenderSlot as s}from"@vue/server-renderer";function l(l,f,c,d){const i=t("va-config");f(`<div${r(o({class:["va-button-group",l.computedClass],style:l.computedStyle},d))}>`),f(u(i,{components:l.context.buttonConfig},{default:e(((t,o,e,r)=>{if(!o)return[n(l.$slots,"default")];s(l.$slots,"default",{},null,o,e,r)})),_:3},c)),f("</div>")}export{l as ssrRender};
+//# sourceMappingURL=VaButtonGroup.vue_vue&type=template&id=f503100e&lang.js.map

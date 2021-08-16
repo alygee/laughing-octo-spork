@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-slider/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaSlider from './VaSlider.vue'\n\nexport default withConfigTransport(VaSlider)\n"],"names":["withConfigTransport","VaSlider"],"mappings":"sJAGA,MAAeA,EAAoBC"}

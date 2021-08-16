@@ -1,0 +1,2 @@
+import{openBlock as e,createBlock as i,createVNode as t,renderSlot as s,createCommentVNode as f}from"vue";const l={ref:"element",class:"va-affix"};function d(d,o){return e(),i("div",l,[t("div",{style:{visibility:d.isAffixed?"hidden":"inherit"}},[s(d.$slots,"default")],4),d.isAffixed?(e(),i("div",{key:0,class:d.computedClass,style:d.computedStyle},[s(d.$slots,"default")],6)):f("v-if",!0)],512)}export{d as render};
+//# sourceMappingURL=VaAffix.vue_vue&type=template&id=c9e05218&lang.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"VaNavbarItem.vue_vue&type=script&lang.js","sources":["../../../../../src/components/va-navbar/VaNavbarItem/VaNavbarItem.vue"],"sourcesContent":["<template>\n  <div class=\"va-navbar__item\">\n    <slot />\n  </div>\n</template>\n\n<script>\nexport default {\n  name: 'VaNavbarItem',\n}\n</script>\n"],"names":["name"],"mappings":"cAOe,CACbA,KAAM"}

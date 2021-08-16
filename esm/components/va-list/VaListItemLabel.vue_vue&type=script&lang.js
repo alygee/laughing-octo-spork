@@ -1,0 +1,2 @@
+import{__decorate as t}from"tslib";import{Vue as e,mixins as s,Options as l,prop as o}from"../../node_modules/vue-class-component/dist/vue-class-component.esm-bundler.js";const a=e.with(class{constructor(){this.caption=o({type:Boolean,default:!1}),this.lines=o({type:Number,default:1})}});let i=class extends(s(a)){get computedClass(){return{"va-list-item-label--caption":this.caption}}get computedStyle(){return{"-webkit-line-clamp":this.lines}}};i=t([l({name:"VaListItemLabel"})],i);var n=i;export default n;
+//# sourceMappingURL=VaListItemLabel.vue_vue&type=script&lang.js.map

@@ -1,0 +1,2 @@
+import{openBlock as t,createBlock as a,createVNode as e,renderSlot as s,createTextVNode as l,toDisplayString as d}from"vue";const o={class:"va-badge__text"};function r(r,n){return t(),a("div",{class:["va-badge",r.badgeClass]},[e("span",{class:"va-badge__text-wrapper",style:r.badgeStyle},[e("span",o,[s(r.$slots,"text",{},(()=>[l(d(r.text),1)]))])],4),s(r.$slots,"default")],2)}export{r as render};
+//# sourceMappingURL=VaBadge.vue_vue&type=template&id=7751249a&lang.js.map

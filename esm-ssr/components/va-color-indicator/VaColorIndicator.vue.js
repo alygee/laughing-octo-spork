@@ -1,0 +1,2 @@
+import o from"./VaColorIndicator.vue_vue&type=script&lang.js";export{default}from"./VaColorIndicator.vue_vue&type=script&lang.js";import{ssrRender as e}from"./VaColorIndicator.vue_vue&type=template&id=3a5f09c3&lang.js";import"./VaColorIndicator.vue_vue&type=style&index=0&id=3a5f09c3&scoped=true&lang.css.js";o.ssrRender=e,o.__scopeId="data-v-3a5f09c3",o.__file="src/components/va-color-indicator/VaColorIndicator.vue";
+//# sourceMappingURL=VaColorIndicator.vue.js.map

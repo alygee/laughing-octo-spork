@@ -1,0 +1,2 @@
+import{defineComponent as e}from"vue";import{useView as t}from"../../hooks/view.js";var a=e({name:"VaDatePickerHeader",emits:["update:view"],props:{monthNames:{type:Array,required:!0},view:{type:Object},color:{type:String,default:void 0}},setup(e,{emit:a}){const{syncView:r,prev:i,next:p}=t(e,a);return{prev:i,next:p,changeView:e=>{r.value=e},switchView:()=>{"day"===r.value.type?r.value={...r.value,type:"month"}:"month"===r.value.type&&(r.value={...r.value,type:"year"})},syncView:r}}});export default a;
+//# sourceMappingURL=VaDatePickerHeader.vue_vue&type=script&lang.js.map

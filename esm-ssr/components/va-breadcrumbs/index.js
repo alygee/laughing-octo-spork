@@ -1,0 +1,2 @@
+import r from"../../services/config-transport/withConfigTransport.js";import"./VaBreadcrumbs.vue.js";import"./VaBreadcrumbsItem/VaBreadcrumbsItem.vue.js";import e from"./VaBreadcrumbsItem/VaBreadcrumbsItem.vue_vue&type=script&lang.js";import t from"./VaBreadcrumbs.vue_vue&type=script&lang.js";const a=r(e);var m=r(t);export default m;export{a as VaBreadcrumbsItem};
+//# sourceMappingURL=index.js.map

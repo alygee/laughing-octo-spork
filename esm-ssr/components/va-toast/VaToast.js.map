@@ -1,0 +1,1 @@
+{"version":3,"file":"VaToast.js","sources":["../../../../src/components/va-toast/VaToast.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\n\nimport VaToast from './VaToast.vue'\n\nexport default withConfigTransport(VaToast)\n"],"names":["withConfigTransport","VaToast"],"mappings":"oJAIA,MAAeA,EAAoBC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-parallax/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaParallax from './VaParallax.vue'\n\nexport default withConfigTransport(VaParallax)\n"],"names":["withConfigTransport","VaParallax"],"mappings":"0JAGA,MAAeA,EAAoBC"}

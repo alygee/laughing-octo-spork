@@ -1,0 +1,2 @@
+import{mergeProps as r}from"vue";import{ssrRenderAttrs as l,ssrRenderSlot as s}from"@vue/server-renderer";function v(v,i,a,c,e,d,o,t){i(`<div${l(r({class:"va-scrollbar",ref:"vuesticScrollbar"},c))}><div class="scrollbar-wrapper"><div class="scrollbar-content">`),s(v.$slots,"default",{},null,i,a),i('</div><div class="track"><div class="thumb"></div></div></div></div>')}export{v as ssrRender};
+//# sourceMappingURL=VaScrollbar.vue_vue&type=template&id=0542b7a0&lang.js.map

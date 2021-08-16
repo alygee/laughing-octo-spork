@@ -1,0 +1,2 @@
+import{__decorate as t}from"tslib";import{Vue as s,mixins as e,Options as o,prop as l}from"../../node_modules/vue-class-component/dist/vue-class-component.esm-bundler.js";const a=s.with(class{constructor(){this.fit=l({type:Boolean,default:!1})}});let i=class extends(e(a)){get computedClass(){return{"va-list--fit":this.fit}}};i=t([o({name:"VaList"})],i);var n=i;export default n;
+//# sourceMappingURL=VaList.vue_vue&type=script&lang.js.map

@@ -1,0 +1,2 @@
+import{ref as e,onMounted as r,onBeforeUnmount as t}from"vue";function n(n,o){const i=e(null);let u;return r((()=>{u=function(e){if(!e)throw new Error("Cant find target");if("string"==typeof e){const r=document.querySelector(e);if(r)return r}return e}(n||i.value),u&&u.addEventListener("scroll",o)})),t((()=>{u&&u.removeEventListener("scroll",o)})),i}export{n as setupScroll};
+//# sourceMappingURL=ScrollMixin.js.map

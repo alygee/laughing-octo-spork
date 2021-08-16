@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-avatar/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaAvatar from './VaAvatar.vue'\n\nexport default withConfigTransport(VaAvatar)\n"],"names":["withConfigTransport","VaAvatar"],"mappings":"sJAGA,MAAeA,EAAoBC"}

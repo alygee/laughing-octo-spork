@@ -1,0 +1,41 @@
+Arguments: 
+  /home/albert/.nvm/versions/node/v15.9.0/bin/node /home/albert/.yvm/versions/v1.22.5/bin/yarn.js init
+
+PATH: 
+  /home/albert/.yvm/shim:/home/albert/.nvm/versions/node/v15.9.0/bin:/home/albert/.rbenv/plugins/ruby-build/bin:/home/albert/.rbenv/shims:/home/albert/.rbenv/bin:/home/albert/.yarn/bin:/home/albert/.config/yarn/global/node_modules/.bin:/home/albert/.magento-cloud/bin:/home/albert/.symfony/bin:/home/albert/.sdkman/candidates/kotlin/current/bin:/home/albert/.sdkman/candidates/gradle/current/bin:/home/albert/.local/bin:/home/albert/bin:/usr/local/rvm/gems/ruby-2.7.2/bin:/usr/local/rvm/gems/ruby-2.7.2@global/bin:/usr/local/rvm/rubies/ruby-2.7.2/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/local/rvm/bin:/home/albert/.config/composer/vendor/bin:/opt/sonar-scanner-4.0.0.1744-linux/bin:/home/albert/.fzf/bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  15.9.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/home/albert/.yvm/versions/v1.22.5/lib/cli.js:137009:13)
+      at Interface.emit (node:events:378:20)
+      at Interface._ttyWrite (node:readline:973:16)
+      at ReadStream.onkeypress (node:readline:259:10)
+      at ReadStream.emit (node:events:378:20)
+      at emitKeys (node:internal/readline/utils:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (node:readline:1242:36)
+      at ReadStream.emit (node:events:378:20)
+      at addChunk (node:internal/streams/readable:313:12)
+
+npm manifest: 
+  {
+    "name": "extraterrestrial",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

@@ -1,0 +1,2 @@
+import a from"../../node_modules/style-inject/dist/style-inject.es.js";var t=":root{--va-app-bar-position:relative;--va-app-bar-height:auto}.va-app-bar{display:flex;align-items:center;position:var(--va-app-bar-position);transition:all .5s ease;top:0;left:0;width:100%;height:var(--va-app-bar-height);min-height:var(--va-app-bar-height);min-width:100%}.va-app-bar--bottom{top:100%;transform:translateY(-100%)}";a(t);export default t;
+//# sourceMappingURL=VaAppBar.vue_vue&type=style&index=0&id=07072507&lang.css.js.map

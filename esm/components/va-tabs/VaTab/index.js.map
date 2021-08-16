@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../../src/components/va-tabs/VaTab/index.ts"],"sourcesContent":["import withConfigTransport from '../../../services/config-transport/withConfigTransport'\nimport VaTab from './VaTab.vue'\n\nexport default withConfigTransport(VaTab)\n"],"names":["withConfigTransport","VaTab"],"mappings":"mJAGA,MAAeA,EAAoBC"}

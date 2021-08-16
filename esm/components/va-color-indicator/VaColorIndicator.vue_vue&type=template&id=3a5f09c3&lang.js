@@ -1,0 +1,2 @@
+import{openBlock as o,createBlock as c,createVNode as t,withScopeId as e}from"vue";const l=e("data-v-3a5f09c3")(((e,l)=>(o(),c("div",{class:["color-indicator",e.computedClass],onClick:l[1]||(l[1]=o=>e.ctx.valueComputed=!e.ctx.valueComputed),style:e.computedStyle},[t("div",{class:"color-indicator__core",style:{"background-color":e.colorComputed,"border-radius":e.square?0:"50%"}},null,4)],6))));export{l as render};
+//# sourceMappingURL=VaColorIndicator.vue_vue&type=template&id=3a5f09c3&lang.js.map

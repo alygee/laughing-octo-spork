@@ -1,0 +1,2 @@
+import t from"../../node_modules/style-inject/dist/style-inject.es.js";var a=".va-color-palette[data-v-07dc5043]{padding-top:3px}.va-color-palette__colors[data-v-07dc5043]{display:flex}.va-color-palette__colors>[data-v-07dc5043]{margin-right:.25rem}.va-color-palette__colors>[data-v-07dc5043]:last-child{margin-right:0}";t(a);export default a;
+//# sourceMappingURL=VaColorPalette.vue_vue&type=style&index=0&id=07dc5043&scoped=true&lang.css.js.map

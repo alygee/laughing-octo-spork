@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-modal/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaModal from './VaModal.vue'\n\nexport default withConfigTransport(VaModal)\n"],"names":["withConfigTransport","VaModal"],"mappings":"oJAGA,MAAeA,EAAoBC"}

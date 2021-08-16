@@ -1,0 +1,2 @@
+import o from"./VaButtonDropdown.vue_vue&type=script&lang.js";export{default}from"./VaButtonDropdown.vue_vue&type=script&lang.js";import{render as t}from"./VaButtonDropdown.vue_vue&type=template&id=1172abf3&lang.js";import"./VaButtonDropdown.vue_vue&type=style&index=0&id=1172abf3&lang.css.js";o.render=t,o.__file="src/components/va-button-dropdown/VaButtonDropdown.vue";
+//# sourceMappingURL=VaButtonDropdown.vue.js.map

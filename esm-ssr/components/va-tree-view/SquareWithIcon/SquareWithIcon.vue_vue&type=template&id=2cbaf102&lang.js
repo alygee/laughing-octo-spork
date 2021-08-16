@@ -1,0 +1,2 @@
+import{resolveComponent as o,mergeProps as r}from"vue";import{ssrRenderAttrs as e,ssrRenderComponent as n}from"@vue/server-renderer";function i(i,c,t,s){const u=o("va-icon");c(`<div${e(r({class:"square-with-icon",style:{backgroundColor:i.colorComputed}},s))}>`),c(n(u,{name:i.$props.icon},null,t)),c("</div>")}export{i as ssrRender};
+//# sourceMappingURL=SquareWithIcon.vue_vue&type=template&id=2cbaf102&lang.js.map

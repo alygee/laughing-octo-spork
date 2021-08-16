@@ -1,0 +1,2 @@
+import{watch as o}from"vue";import{useGlobalConfig as t}from"../global-config/global-config.js";import{isServer as e}from"../../utils/ssr-utils.js";const r=(o,t,e)=>{e.style.setProperty(`--va-${o}`,t)},l={install(){if(e())return;const{globalConfig:l}=t(),i=document.documentElement;o((()=>l.value.colors),(o=>{if(!o)return;Object.keys(o).forEach((t=>{r(t,o[t],i)}))}),{immediate:!0,deep:!0})}};export default l;export{r as setCSSVariable};
+//# sourceMappingURL=color-css-variables-updater.js.map

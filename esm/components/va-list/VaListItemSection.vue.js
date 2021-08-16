@@ -1,0 +1,2 @@
+import e from"./VaListItemSection.vue_vue&type=script&lang.js";export{default}from"./VaListItemSection.vue_vue&type=script&lang.js";import{render as t}from"./VaListItemSection.vue_vue&type=template&id=5528dbda&lang.js";import"./VaListItemSection.vue_vue&type=style&index=0&id=5528dbda&lang.css.js";e.render=t,e.__file="src/components/va-list/VaListItemSection.vue";
+//# sourceMappingURL=VaListItemSection.vue.js.map

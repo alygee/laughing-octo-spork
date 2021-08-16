@@ -1,0 +1,2 @@
+import{openBlock as e,createBlock as t,createVNode as o,renderSlot as s}from"vue";const a={class:"va-sidebar__menu"};function u(u,r){return e(),t("aside",{class:u.computedClass,style:u.computedStyle,onMouseenter:r[1]||(r[1]=e=>u.updateHoverState(!0)),onMouseleave:r[2]||(r[2]=e=>u.updateHoverState(!1))},[o("div",a,[s(u.$slots,"default")])],38)}export{u as render};
+//# sourceMappingURL=VaSidebar.vue_vue&type=template&id=2d72e2e8&lang.js.map

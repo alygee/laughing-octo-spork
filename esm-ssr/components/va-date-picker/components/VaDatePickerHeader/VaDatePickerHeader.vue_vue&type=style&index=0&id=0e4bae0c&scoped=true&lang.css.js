@@ -1,0 +1,2 @@
+import e from"../../../../node_modules/style-inject/dist/style-inject.es.js";var t=".va-date-picker__header[data-v-0e4bae0c]{display:flex;justify-content:space-between;align-items:center}.va-date-picker__header__text[data-v-0e4bae0c]{color:var(--va-dark);font-family:Source Sans Pro;font-style:normal;font-weight:600;font-size:12px;line-height:15px}";e(t);export default t;
+//# sourceMappingURL=VaDatePickerHeader.vue_vue&type=style&index=0&id=0e4bae0c&scoped=true&lang.css.js.map

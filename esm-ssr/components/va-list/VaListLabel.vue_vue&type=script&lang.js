@@ -1,0 +1,2 @@
+import{__decorate as o}from"tslib";import{mixins as e,Options as t}from"../../node_modules/vue-class-component/dist/vue-class-component.esm-bundler.js";import s from"../../services/color-config/ColorMixin.js";let r=class extends(e(s)){get computedStyle(){return{color:this.colorComputed}}};r=o([t({name:"VaListLabel"})],r);var l=r;export default l;
+//# sourceMappingURL=VaListLabel.vue_vue&type=script&lang.js.map

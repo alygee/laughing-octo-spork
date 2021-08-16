@@ -1,0 +1,2 @@
+import{createVNode as r,resolveDynamicComponent as e,mergeProps as t,withCtx as o,renderSlot as f}from"vue";import{ssrRenderVNode as l,ssrRenderSlot as u}from"@vue/server-renderer";function s(s,a,m,n){l(a,r(e(s.tag),t({class:"va-form"},n),{default:o(((r,e,t,o)=>{if(!e)return[f(s.$slots,"default")];u(s.$slots,"default",{},null,e,t,o)})),_:3}),m)}export{s as ssrRender};
+//# sourceMappingURL=VaForm.vue_vue&type=template&id=848ce870&lang.js.map

@@ -1,0 +1,2 @@
+import{computed as t,defineComponent as e,toRefs as o,inject as n,provide as r}from"vue";const u=Symbol("LocalConfigKey"),l=t((()=>[]));function s(){return n(u,l)}var a=e({name:"VaConfig",props:{components:{type:Object,default:()=>({})}},setup(e){const{components:n}=o(e),l=s(),a=t((()=>[...l.value,n.value]));return r(u,a),{}},render(){return this.$slots.default?this.$slots.default():null}});export default a;export{l as CONFIGS_DEFAULT,u as LocalConfigKey,s as useLocalConfig};
+//# sourceMappingURL=VaConfig.js.map

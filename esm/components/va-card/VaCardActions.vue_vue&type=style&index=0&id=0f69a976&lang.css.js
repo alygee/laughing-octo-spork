@@ -1,0 +1,2 @@
+import t from"../../node_modules/style-inject/dist/style-inject.es.js";var a=".va-card__actions button{margin:0 var(--va-card-actions-btn-margin)}.va-card__actions button:first-child{margin-left:0}.va-card__actions button:last-child{margin-right:0}.va-card__actions_vertical button{margin:var(--va-card-actions-btn-margin) 0}.va-card__actions_vertical button:first-child{margin-top:0}.va-card__actions_vertical button:last-child{margin-bottom:0}";t(a);export default a;
+//# sourceMappingURL=VaCardActions.vue_vue&type=style&index=0&id=0f69a976&lang.css.js.map

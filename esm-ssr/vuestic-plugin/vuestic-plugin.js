@@ -1,0 +1,2 @@
+import{installPlatform as o}from"../components/va-popup/install.js";import s from"../components/va-dropdown/dropdown-popover-subplugin.js";import r from"../components/va-toast/install.js";import n from"../services/color-config/color-css-variables-updater.js";import{GlobalConfigPlugin as p}from"../services/global-config/global-config-plugin.js";import*as t from"./vuestic-components.js";o();const e={install(o,e){Object.entries(t).forEach((([s,r])=>{o.component(s,r)})),o.use(s),o.use(r),o.use(p,e),o.use(n)}};export{e as VuesticPlugin};
+//# sourceMappingURL=vuestic-plugin.js.map

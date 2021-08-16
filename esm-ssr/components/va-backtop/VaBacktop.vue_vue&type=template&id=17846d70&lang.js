@@ -1,0 +1,2 @@
+import{resolveComponent as e,mergeProps as o}from"vue";import{ssrRenderAttrs as t,ssrRenderSlot as r,ssrRenderComponent as l}from"@vue/server-renderer";function s(s,c,i,n){const v=e("va-button");s.visible?(c(`<div${t(o({class:"va-backtop",style:s.computedStyle},n))}>`),r(s.$slots,"default",{},(()=>{c(l(v,{icon:"expand_less",color:s.color},null,i))}),c,i),c("</div>")):c("\x3c!----\x3e")}export{s as ssrRender};
+//# sourceMappingURL=VaBacktop.vue_vue&type=template&id=17846d70&lang.js.map

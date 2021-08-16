@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-radio/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaRadio from './VaRadio.vue'\n\nexport default withConfigTransport(VaRadio)\n"],"names":["withConfigTransport","VaRadio"],"mappings":"oJAGA,MAAeA,EAAoBC"}

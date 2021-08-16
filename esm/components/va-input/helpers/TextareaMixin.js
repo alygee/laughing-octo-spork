@@ -1,0 +1,2 @@
+import{Vue as t,mixins as e,setup as s,prop as i}from"../../../node_modules/vue-class-component/dist/vue-class-component.esm-bundler.js";import{StatefulMixin as n}from"../../../mixins/StatefulMixin/StatefulMixin.js";const o=t.with(class{constructor(){this.type=i({type:String,default:"text"}),this.label=i({type:String,default:""})}});class r extends(e(n,o)){constructor(){super(...arguments),this.context=s((()=>({})))}get isTextarea(){return"textarea"===this.type}adjustHeight(){}}export{r as TextareaMixin};
+//# sourceMappingURL=TextareaMixin.js.map

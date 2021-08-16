@@ -1,0 +1,2 @@
+import{resolveComponent as t,openBlock as o,createBlock as n,createVNode as e,withCtx as s,renderSlot as u}from"vue";function c(c,l){const p=t("va-config");return o(),n("div",{class:["va-button-group",c.computedClass],style:c.computedStyle},[e(p,{components:c.context.buttonConfig},{default:s((()=>[u(c.$slots,"default")])),_:3},8,["components"])],6)}export{c as render};
+//# sourceMappingURL=VaButtonGroup.vue_vue&type=template&id=f503100e&lang.js.map

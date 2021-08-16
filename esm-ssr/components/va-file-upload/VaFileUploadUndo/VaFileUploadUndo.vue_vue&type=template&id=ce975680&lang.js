@@ -1,0 +1,2 @@
+import{resolveComponent as e,mergeProps as o,withCtx as l,createTextVNode as n}from"vue";import{ssrRenderAttrs as s,ssrRenderComponent as u}from"@vue/server-renderer";function t(t,a,d,r,i,f,v,p){const c=e("va-button");a(`<div${s(o({class:"va-file-upload-undo"},r))}><span>File was successfully deleted</span>`),a(u(c,{outline:"",size:"small",class:"va-file-upload-undo__button"},{default:l(((e,o,l,s)=>{if(!o)return[n(" Undo ")];o(" Undo ")})),_:1},d)),a("</div>")}export{t as ssrRender};
+//# sourceMappingURL=VaFileUploadUndo.vue_vue&type=template&id=ce975680&lang.js.map

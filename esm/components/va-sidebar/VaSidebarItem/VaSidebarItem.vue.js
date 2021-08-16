@@ -1,0 +1,2 @@
+import e from"./VaSidebarItem.vue_vue&type=script&lang.js";export{default}from"./VaSidebarItem.vue_vue&type=script&lang.js";import{render as t}from"./VaSidebarItem.vue_vue&type=template&id=28c8df18&lang.js";import"./VaSidebarItem.vue_vue&type=style&index=0&id=28c8df18&scoped=true&lang.css.js";e.render=t,e.__scopeId="data-v-28c8df18",e.__file="src/components/va-sidebar/VaSidebarItem/VaSidebarItem.vue";
+//# sourceMappingURL=VaSidebarItem.vue.js.map

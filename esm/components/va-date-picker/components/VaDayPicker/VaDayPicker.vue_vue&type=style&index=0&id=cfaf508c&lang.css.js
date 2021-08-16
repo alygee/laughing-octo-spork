@@ -1,0 +1,2 @@
+import e from"../../../../node_modules/style-inject/dist/style-inject.es.js";var a=".va-day-picker{display:grid;grid-template-columns:repeat(7,1fr);grid-gap:var(--va-date-picker-cell-gap)}.va-day-picker__weekday{text-align:center;font-size:9px;color:var(--va-secondary);font-weight:700;height:var(--va-date-picker-cell-size);line-height:var(--va-date-picker-cell-size)}";e(a);export default a;
+//# sourceMappingURL=VaDayPicker.vue_vue&type=style&index=0&id=cfaf508c&lang.css.js.map

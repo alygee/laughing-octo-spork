@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-chip/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaChip from './VaChip.vue'\n\nexport default withConfigTransport(VaChip)\n"],"names":["withConfigTransport","VaChip"],"mappings":"kJAGA,MAAeA,EAAoBC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-hover/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaHover from './VaHover.vue'\n\nexport default withConfigTransport(VaHover)\n"],"names":["withConfigTransport","VaHover"],"mappings":"oJAGA,MAAeA,EAAoBC"}

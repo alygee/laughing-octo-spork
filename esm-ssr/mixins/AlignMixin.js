@@ -1,0 +1,2 @@
+import{Vue as e,prop as t}from"../node_modules/vue-class-component/dist/vue-class-component.esm-bundler.js";const n={left:"flex-start",center:"center",right:"flex-end",between:"space-between",around:"space-around",stretch:"stretch"};class s{constructor(){this.align=t({type:String,default:"left",validator:e=>e in n})}}class r extends(e.with(s)){get alignComputed(){return{display:"flex",justifyContent:n[this.align]}}}export{r as AlignMixin,n as alignMap};
+//# sourceMappingURL=AlignMixin.js.map

@@ -1,0 +1,2 @@
+import{__decorate as t}from"tslib";import{Vue as s,mixins as e,Options as a,prop as o}from"../../node_modules/vue-class-component/dist/vue-class-component.esm-bundler.js";const r=s.with(class{constructor(){this.fit=o({type:Boolean,default:!1}),this.spaced=o({type:Boolean,default:!1})}});let l=class extends(e(r)){get computedClass(){return{"va-list-separator--offset":!this.fit,"va-list-separator--spaced":this.spaced}}};l=t([a({name:"VaListSeparator"})],l);var i=l;export default i;
+//# sourceMappingURL=VaListSeparator.vue_vue&type=script&lang.js.map

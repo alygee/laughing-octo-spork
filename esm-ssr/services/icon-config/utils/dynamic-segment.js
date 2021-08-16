@@ -1,0 +1,2 @@
+import{regexGroupsValues as e}from"./regex.js";const r=/{[^}]*}/g,t=e=>e.replace(r,"(.*)"),c=(c,n)=>{const o=(e=>(e.match(r)||[]).map((e=>e.replace(/{|}/g,""))))(n),p=((r,c)=>e(r,t(c)))(c,n);return o.reduce(((e,r,t)=>({...e,[r]:p[t]})),{})},n=(e,r)=>{const c=t(r);return((e,r)=>(e.match(r)||[])[0]===e)(e,new RegExp(c))};export{c as dynamicSegments,n as isMatchDynamicSegments};
+//# sourceMappingURL=dynamic-segment.js.map

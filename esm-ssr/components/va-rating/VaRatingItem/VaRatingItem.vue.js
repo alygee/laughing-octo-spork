@@ -1,0 +1,2 @@
+import e from"./VaRatingItem.vue_vue&type=script&lang.js";export{default}from"./VaRatingItem.vue_vue&type=script&lang.js";import{ssrRender as t}from"./VaRatingItem.vue_vue&type=template&id=63f57dc2&lang.js";import"./VaRatingItem.vue_vue&type=style&index=0&id=63f57dc2&lang.css.js";e.ssrRender=t,e.__file="src/components/va-rating/VaRatingItem/VaRatingItem.vue";
+//# sourceMappingURL=VaRatingItem.vue.js.map

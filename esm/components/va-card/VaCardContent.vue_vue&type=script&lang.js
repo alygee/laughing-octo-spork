@@ -1,0 +1,2 @@
+import{__decorate as t}from"tslib";import{Vue as o,mixins as e,Options as s,prop as r}from"../../node_modules/vue-class-component/dist/vue-class-component.esm-bundler.js";import l from"../../services/color-config/ColorMixin.js";const n=o.with(class{constructor(){this.textColor=r({type:String,default:""})}});let i=class extends(e(l,n)){get contentStyles(){return{color:this.textColor?this.theme.getColor(this.textColor):""}}};i=t([s({name:"VaCardContent"})],i);var c=i;export default c;
+//# sourceMappingURL=VaCardContent.vue_vue&type=script&lang.js.map

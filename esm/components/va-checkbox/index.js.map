@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-checkbox/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaCheckbox from './VaCheckbox.vue'\n\nexport default withConfigTransport(VaCheckbox)\n"],"names":["withConfigTransport","VaCheckbox"],"mappings":"0JAGA,MAAeA,EAAoBC"}

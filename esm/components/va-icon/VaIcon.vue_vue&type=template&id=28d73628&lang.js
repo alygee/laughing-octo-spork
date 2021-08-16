@@ -1,0 +1,2 @@
+import{openBlock as t,createBlock as e,resolveDynamicComponent as o,mergeProps as s,withCtx as a,renderSlot as u,createTextVNode as l,toDisplayString as c}from"vue";function d(d,n){return t(),e(o(d.computedTag),s(d.computedAttrs,{"aria-hidden":"true",notranslate:"",class:["va-icon",d.computedClass],style:d.computedStyle}),{default:a((()=>[u(d.$slots,"default",{},(()=>[l(c(d.computedContent),1)]))])),_:3},16,["class","style"])}export{d as render};
+//# sourceMappingURL=VaIcon.vue_vue&type=template&id=28d73628&lang.js.map

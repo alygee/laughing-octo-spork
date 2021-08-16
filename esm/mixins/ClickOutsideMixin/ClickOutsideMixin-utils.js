@@ -1,0 +1,2 @@
+import{isModifiedEvent as t,isLeftClickEvent as e,ownerDocument as o,contains as r}from"../../utils/dom-utils.js";import{__DEV__ as i}from"../../utils/global-utils.js";const s=(s,n)=>{if(i&&!n)throw new Error("ClickOutside captured a click event but does not have a target to compare it to.");let a;if(s.composedPath)a=s.composedPath().indexOf(n)>-1;else{const t=o(n);a=!(t.documentElement&&t.documentElement.contains(s.target))||r(n,s.target)}return!(n&&!t(s)&&e(s)&&!a)};export{s as handleMouseCapture};
+//# sourceMappingURL=ClickOutsideMixin-utils.js.map

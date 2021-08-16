@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-alert/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaAlert from './VaAlert.vue'\n\nexport default withConfigTransport(VaAlert)\n"],"names":["withConfigTransport","VaAlert"],"mappings":"oJAGA,MAAeA,EAAoBC"}

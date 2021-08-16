@@ -1,0 +1,2 @@
+import{ref as e,toRefs as l,computed as t}from"vue";function u(u,o,a){const d=e(void 0===a?u.modelValue:a),{modelValue:m}=l(u);return{valueComputed:t({get:()=>u.stateful?d.value:null==m?void 0:m.value,set(e){u.stateful&&(d.value=e),o("update:modelValue",e)}})}}const o={props:{stateful:{type:Boolean,default:!1},modelValue:{type:void 0,default:void 0}},emits:["update:modelValue"]};export{o as statefulComponentOptions,u as useStateful};
+//# sourceMappingURL=cStatefulMixin.js.map

@@ -1,0 +1,2 @@
+const l=(l,t)=>(null==l?void 0:l.toDateString())===(null==t?void 0:t.toDateString()),t=(l,t)=>(null==l?void 0:l.getFullYear())===(null==t?void 0:t.getFullYear())&&(null==l?void 0:l.getMonth())===(null==t?void 0:t.getMonth()),e=(l,t)=>(null==l?void 0:l.getFullYear())===(null==t?void 0:t.getFullYear()),n=l=>{const t=new Date;return t.setFullYear(l),t};export{n as createYearDate,l as isDatesDayEqual,t as isDatesMonthEqual,e as isDatesYearEqual};
+//# sourceMappingURL=date-utils.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-backtop/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaBacktop from './VaBacktop.vue'\n\nexport default withConfigTransport(VaBacktop)\n"],"names":["withConfigTransport","VaBacktop"],"mappings":"wJAGA,MAAeA,EAAoBC"}

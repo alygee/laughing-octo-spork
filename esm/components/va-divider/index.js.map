@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-divider/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaDivider from './VaDivider.vue'\n\nexport default withConfigTransport(VaDivider)\n"],"names":["withConfigTransport","VaDivider"],"mappings":"wJAGA,MAAeA,EAAoBC"}

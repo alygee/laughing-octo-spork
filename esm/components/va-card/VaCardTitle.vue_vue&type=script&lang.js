@@ -1,0 +1,2 @@
+import{__decorate as t}from"tslib";import{Vue as o,mixins as e,Options as s,prop as r}from"../../node_modules/vue-class-component/dist/vue-class-component.esm-bundler.js";import l from"../../services/color-config/ColorMixin.js";const i=o.with(class{constructor(){this.textColor=r({type:String,default:""})}});let n=class extends(e(l,i)){get titleStyles(){return{color:this.textColor?this.theme.getColor(this.textColor):""}}};n=t([s({name:"VaCardTitle"})],n);var c=n;export default c;
+//# sourceMappingURL=VaCardTitle.vue_vue&type=script&lang.js.map

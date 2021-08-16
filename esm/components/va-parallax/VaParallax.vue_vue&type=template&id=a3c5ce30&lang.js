@@ -1,0 +1,2 @@
+import{openBlock as a,createBlock as l,createVNode as s,renderSlot as r}from"vue";const t={class:"va-parallax__image-container"},e={class:"va-parallax__item-container"};function p(p,c){return a(),l("div",{class:"va-parallax",style:p.computedWrapperStyles},[s("div",t,[s("img",{class:"va-parallax__image",ref:"img",src:p.$props.src,alt:p.$props.alt,style:p.computedImgStyles},null,12,["src","alt"])]),s("div",e,[r(p.$slots,"default")])],4)}export{p as render};
+//# sourceMappingURL=VaParallax.vue_vue&type=template&id=a3c5ce30&lang.js.map

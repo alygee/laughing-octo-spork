@@ -1,0 +1,2 @@
+import{mergeProps as e}from"vue";import{ssrRenderAttrs as s,ssrRenderList as m,ssrInterpolate as r}from"@vue/server-renderer";function t(t,a,i,v){t.messages.length?(a(`<div${s(e({class:"va-message-list",style:t.computedStyle},v))}>\x3c!--[--\x3e`),m(t.messages,((e,s)=>{a(`<div class="va-message-list__message">${r(e)}</div>`)})),a("\x3c!--]--\x3e</div>")):a("\x3c!----\x3e")}export{t as ssrRender};
+//# sourceMappingURL=VaMessageList.vue_vue&type=template&id=bc0ba164&lang.js.map

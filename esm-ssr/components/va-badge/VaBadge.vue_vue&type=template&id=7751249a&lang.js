@@ -1,0 +1,2 @@
+import{mergeProps as e}from"vue";import{ssrRenderAttrs as a,ssrRenderStyle as s,ssrRenderSlot as t,ssrInterpolate as r}from"@vue/server-renderer";function l(l,d,p,n){d(`<div${a(e({class:["va-badge",l.badgeClass]},n))}><span class="va-badge__text-wrapper" style="${s(l.badgeStyle)}"><span class="va-badge__text">`),t(l.$slots,"text",{},(()=>{d(`${r(l.text)}`)}),d,p),d("</span></span>"),t(l.$slots,"default",{},null,d,p),d("</div>")}export{l as ssrRender};
+//# sourceMappingURL=VaBadge.vue_vue&type=template&id=7751249a&lang.js.map

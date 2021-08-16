@@ -1,0 +1,2 @@
+import{__decorate as e}from"tslib";import{Vue as t,mixins as o,Options as s,prop as n}from"../../../node_modules/vue-class-component/dist/vue-class-component.esm-bundler.js";import l from"../../va-button/index.js";const m=t.with(class{constructor(){this.file=n({type:Object,default:null})}});let a=class extends(o(m)){};a=e([s({name:"VaFileUploadSingleItem",components:{VaButton:l},emits:["remove"]})],a);var i=a;export default i;
+//# sourceMappingURL=VaFileUploadSingleItem.vue_vue&type=script&lang.js.map

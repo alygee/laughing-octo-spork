@@ -1,0 +1,2 @@
+import e from"./VaColorInput.vue_vue&type=script&lang.js";export{default}from"./VaColorInput.vue_vue&type=script&lang.js";import{ssrRender as o}from"./VaColorInput.vue_vue&type=template&id=0b3859a3&lang.js";import"./VaColorInput.vue_vue&type=style&index=0&id=0b3859a3&scoped=true&lang.css.js";e.ssrRender=o,e.__scopeId="data-v-0b3859a3",e.__file="src/components/va-color-input/VaColorInput.vue";
+//# sourceMappingURL=VaColorInput.vue.js.map

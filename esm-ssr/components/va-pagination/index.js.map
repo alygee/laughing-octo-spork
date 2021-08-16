@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../src/components/va-pagination/index.ts"],"sourcesContent":["import withConfigTransport from '../../services/config-transport/withConfigTransport'\nimport VaPagination from './VaPagination.vue'\n\nexport default withConfigTransport(VaPagination)\n"],"names":["withConfigTransport","VaPagination"],"mappings":"8JAGA,MAAeA,EAAoBC"}

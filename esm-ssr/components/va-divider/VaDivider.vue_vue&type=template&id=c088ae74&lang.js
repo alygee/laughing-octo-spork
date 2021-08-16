@@ -1,0 +1,2 @@
+import{mergeProps as r}from"vue";import{ssrRenderAttrs as e,ssrRenderClass as o,ssrRenderSlot as t}from"@vue/server-renderer";function a(a,l,i,s){l(`<div${e(r({class:a.classComputed,"aria-orientation":a.vertical?"vertical":"horizontal"},s))}>`),a.hasSlot&&!a.vertical?(l(`<div class="${o(a.slotClassComputed)}" role="separator">`),t(a.$slots,"default",{},null,l,i),l("</div>")):l("\x3c!----\x3e"),l("</div>")}export{a as ssrRender};
+//# sourceMappingURL=VaDivider.vue_vue&type=template&id=c088ae74&lang.js.map
